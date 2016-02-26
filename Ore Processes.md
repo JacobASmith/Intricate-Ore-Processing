@@ -41,5 +41,13 @@
           - *Yield diamond*
 
 ####Emerald
-  - Emerald Ore -> Grinder
+  - Step 1
 
+####Lapis Lazuli
+  - Step 1
+
+####Tin
+  - Step 1
+
+####Aluminium
+  - Step 1

@@ -1,12 +1,14 @@
-Copper:
-Cooper Ore - 
+####Copper
   - Copper Ore -> Grinder
     - Yield cobblestone and ground copper ore
-    - Ground copper ore + 2 paraffin oil -> Froth Flotation Machine
-      - Yield parrafin oil and chalcopyrite
+    - Ground copper ore + paraffin oil -> Froth Flotation Machine
+      - Yield and chalcopyrite
       - Chalcopyrite + heat source -> Roaster
         - Yield calcine
         - Calcine + limestone + heat source -> Flux Furnace
           - Yield copper matte
-          - Matte + heat source -> Chemical converter
+          - Copper Matte + heat source -> Chemical converter
             - Yield blister copper, 99% pure (copper ingot)
+
+####Iron
+  - 

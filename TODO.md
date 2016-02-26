@@ -1,8 +1,8 @@
 - [ ] Design Flow Charts For The Following Ores and Decide on Processes
-  - [ ] Iron
+  - [x] Iron
     - [ ] Double Iron
   - [ ] Coal
-  - [ ] Gold
+  - [x] Gold
     - [ ] Double Gold
   - [ ] Diamond
   - [ ] Emerald

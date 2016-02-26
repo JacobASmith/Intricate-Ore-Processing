@@ -34,11 +34,11 @@
 
 ####Diamond
   - Diamond Ore -> Grinder
-    - *Yield cobblestone and ground diamond ore*
-    - cleaving
-      - sawing
-        - polishing
-          - *Yield diamond*
+    - *Yield cobblestone and uncut diamonds*
+    - Uncut diamond -> * * Cutting machine * *
+      - *Yield rough diamond*
+      - Rough diamond -> * * Polisher * *
+        - *Yield diamond*
 
 ####Emerald
   - Step 1

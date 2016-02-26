@@ -1,0 +1,2 @@
+####Iron
+"The most widely distributed iron-bearing minerals are oxides, and iron ores consist mainly of hematite (Fe2O3), which is red; magnetite (Fe3O4), which is black; limonite or bog-iron ore (2Fe2O3·3H2O), which is brown; and siderite (FeCO3), which is pale brown. Hematite and magnetite are by far the most common types of ore."

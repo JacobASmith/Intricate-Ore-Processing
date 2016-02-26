@@ -20,4 +20,5 @@
 - [ ] Decide on power sources (Coal, windmills, watermills, etc.)
 - [ ] Make a functional GUI
 - [ ] Decide on textures
+- [ ] Design a book that will teach the user how to make stuff, as they go along it will unlock more pages. Include somthing like the thaumcraft multiblock gui construction. Ex: http://vignette3.wikia.nocookie.net/thaumcraft-3/images/1/1a/Infernal_Furnace_Crafting.png/revision/latest?cb=20121228050818
 - [ ] TBD

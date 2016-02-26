@@ -1,21 +1,21 @@
 - [ ] Design Flow Charts For The Following Ores and Decide on Processes
--   [ ] Iron
--     [ ] Double Iron
--   [ ] Coal
--   [ ] Gold
--     [ ] Double Gold
--   [ ] Diamond
--   [ ] Emerald
--   [ ] Redstone
--   [ ] Lapis
--     [ ] Fortune ?
--   [ ] Copper
--     [ ] Double Copper
--   [ ] Tin
--     [ ] Double Tin
--   [ ] Aluminum
--     [ ] Double Aluminum
--   [ ] Zinc ? Anything else?
+  - [ ] Iron
+    - [ ] Double Iron
+  - [ ] Coal
+  - [ ] Gold
+    - [ ] Double Gold
+  - [ ] Diamond
+  - [ ] Emerald
+  - [ ] Redstone
+  - [ ] Lapis
+    - [ ] Fortune ?
+  - [x] Copper
+    - [ ] Double Copper
+  - [ ] Tin
+    - [ ] Double Tin
+  - [ ] Aluminum
+    - [ ] Double Aluminum
+  - [ ] Zinc ? Anything else?
 - [ ] Figure out how to get a multiblock structure
 - [ ] Decide on power sources (Coal, windmills, watermills, etc.)
 - [ ] Make a functional GUI

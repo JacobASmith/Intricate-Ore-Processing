@@ -23,4 +23,23 @@
 ####Gold
   - Gold Ore -> Grinder
     - *Yield cobblestone and ground iron ore*
-    - Ground gold ore 
+    - Ground gold ore + mercury -> Grinder
+      - *Yield Amalgam*
+      - Amalgam + cyanide -> Chemical Converter
+        - *Yield gold ingot*
+
+####Redstone
+  - Redstone Ore -> Grinder
+    - *Yield Redstone powder*
+
+####Diamond
+  - Diamond Ore -> Grinder
+    - *Yield cobblestone and ground diamond ore*
+    - cleaving
+      - sawing
+        - polishing
+          - *Yield diamond*
+
+####Emerald
+  - Emerald Ore -> Grinder
+

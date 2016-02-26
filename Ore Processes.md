@@ -11,4 +11,13 @@
             - Yield blister copper, 99% pure (copper ingot)
 
 ####Iron
-  - 
+  - Iron Ore -> Grinder
+    - Yield cobblestone and ground iron ore
+    - Ground iron ore + paraffin oil -> Froth Flotation Machine
+      - Yield and chalcopyrite
+      - Chalcopyrite + heat source -> Roaster
+        - Yield calcine
+        - Calcine + limestone + heat source -> Flux Furnace
+          - Yield copper matte
+          - Copper Matte + heat source -> Chemical converter
+            - Yield blister copper, 99% pure (copper ingot)
